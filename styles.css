@@ -2,7 +2,6 @@ body {
     background-color: hsl(212, 45%, 89%);
     font-family: 'Outfit', sans-serif;
     padding: 20px;
-    border-radius: 2%;
 }
 
 .qr {
@@ -11,6 +10,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     padding: 20px;
+    border-radius: 2%;
 }
 
 img {
